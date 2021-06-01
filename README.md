@@ -9,7 +9,7 @@ The repository is part of the [ISMRM member-initiated tutorial Cardiovascular MR
 This notebook contains a simple MRI simulator which can be used to define a custom pulse sequence and simulate an image acquisition on a phantom.
 During this tutorial we will simulate a spoiled GRE sequence on a cardiac phantom and we will observe the effects of blood flow.
 
-## Challenge
+## Challenge: Flow compensation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISMRM-MIT-CMR/CMR-physics-challenge/blob/master/ISMRM_final_challenge.ipynb)
 
